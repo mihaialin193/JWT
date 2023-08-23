@@ -54,12 +54,21 @@
 			<version>3.12.0</version>
 		</dependency>
 
-		<!-- Guava BruteForce ATTACK Library !-->
+		<!-- Guava LoadCache library !-->
 
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
 			<version>32.1.2-jre</version>
+		</dependency>
+
+		<!-- JAVAX Mail !-->
+
+
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<version>1.6.2</version>
 		</dependency>
 
 
